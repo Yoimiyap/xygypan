@@ -26,7 +26,7 @@ https://github.com/用户名/存储库名/releases/download/文件标签/文件�
 ['https://download.nuaa.cf', '美国', '[美国 Cloudflare CDN] - 该公益加速源由 [LibraryCloud] 提供'],  
 ['https://download.cithub.icu', '美国', '[美国 洛杉矶]', 'https://archive.cithub.icu']   
 ['https://download.fastgit.org', '日本', '[日本 东京] - 该公益加速源由 [FastGit] 提供', 'https://archive.fastgit.org'],  
-['https://ghproxy.com/https://github.com', '韩国', '[韩国 首尔] - 该公益加速源由 [ghproxy] 提供，有不同地区的服务器，不过国内一般分配为韩国']  
+['https://ghproxy.com', '韩国', '[韩国 首尔] - 该公益加速源由 [ghproxy] 提供，有不同地区的服务器，不过国内一般分配为韩国']  
 克隆加速   
 ['https://gitclone.com', '国内', '[中国 国内] - 该公益加速源由 [GitClone] 提供&#10;&#10; - 缓存：有&#10; - 首次比较慢，缓存后较快'],  
 ['https://kgithub.com', '新加坡', '[新加坡] - 该公益加速源由 [KGitHub] 提供&#10;&#10; - 缓存：无（或时间很短）'],  
